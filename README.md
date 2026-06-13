@@ -9,7 +9,6 @@ To set up and run the application locally, navigate to the project root folder a
 **Prerequisites:** * You must have `sudo` privileges on your machine to install necessary dependencies.
 * *Note: If the `apt install` step fails during startup, run `sudo apt-get update` first.*
 
-```bash
 # 1. Install dependencies and setup the environment
 sh startup.sh
 
